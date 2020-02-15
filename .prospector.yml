@@ -10,10 +10,10 @@ uses:
 ignore-paths:
   - migrations
   - manage.py
-  - violet_contact_book/settings.py
+  - sda/settings.py
   - web/apps.py
   - web/admin.py
-  - violet_contact_book/urls.py
+  - sda/urls.py
   - web/models
   - web/tests
   - web/forms
