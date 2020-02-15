@@ -1,1 +1,1 @@
-""" Widoki. """
+""" Widoki i inne badziewia. """
